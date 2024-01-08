@@ -1,4 +1,4 @@
-[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://im-biyash.i](https://avatars.githubusercontent.com/u/133490951?s=400&u=fca2df59ad46e1f5dd7ad51613d8c03794d23016&v=4)o)
+
 
 <h1 align="center">Hi 👋, I'm Biyash Shrestha</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
