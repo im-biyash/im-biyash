@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 <img align= "right" alt = "coding" width = "400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biyash10&label=Profile%20views&color=0e75b6&style=flat" alt="biyash10" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=biyash10&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/133490951?s=400&u=fca2df59ad46e1f5dd7ad51613d8c03794d23016&v=4)" alt="biyash10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biyash10" alt="biyash10" /></a> </p>
 
