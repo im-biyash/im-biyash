@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Biyash Shrestha</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate dedicated fullstack developer from Nepal</h3>
 <img align= "right" alt = "coding" width = "400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
